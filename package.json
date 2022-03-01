@@ -19,7 +19,7 @@
     "@storybook/server": "^6.3.10",
     "jasmine-core": "~2.4.1",
     "jest": "^27.2.5",
-    "karma": "~6.3.4",
+    "karma": "~6.3.17",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coffee-preprocessor": "~1.0.1",
     "karma-jasmine": "~0.3.8",
