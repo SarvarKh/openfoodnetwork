@@ -382,7 +382,7 @@ GEM
     mini_portile2 (2.6.1)
     mini_racer (0.4.0)
       libv8-node (~> 15.14.0.0)
-    minitest (5.14.4)
+    minitest (5.15.0)
     monetize (1.11.0)
       money (~> 6.12)
     money (6.14.1)
@@ -403,7 +403,7 @@ GEM
       rack (>= 1.2, < 3)
     orm_adapter (0.5.0)
     pagy (4.11.0)
-    paper_trail (12.1.0)
+    paper_trail (12.3.0)
       activerecord (>= 5.2)
       request_store (~> 1.1)
     paperclip (3.4.2)
@@ -500,7 +500,7 @@ GEM
     redcarpet (3.5.1)
     redis (4.4.0)
     regexp_parser (2.1.1)
-    request_store (1.5.0)
+    request_store (1.5.1)
       rack (>= 1.4)
     responders (3.0.1)
       actionpack (>= 5.0)
@@ -678,7 +678,7 @@ GEM
     xml-simple (1.1.8)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (2.4.2)
+    zeitwerk (2.5.4)
 
 PLATFORMS
   ruby
@@ -758,7 +758,7 @@ DEPENDENCIES
   ofn-qz!
   order_management!
   pagy (~> 4.11)
-  paper_trail (~> 12.1.0)
+  paper_trail (~> 12.3.0)
   paperclip (~> 3.4.1)
   paranoia (~> 2.4)
   paypal-sdk-merchant (= 1.117.2)
