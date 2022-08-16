@@ -219,7 +219,7 @@ GEM
       compass (~> 1.0.0)
       sass-rails (< 5.1)
       sprockets (< 4.0)
-    concurrent-ruby (1.1.9)
+    concurrent-ruby (1.1.10)
     connection_pool (2.2.5)
     crack (0.4.5)
       rexml
@@ -382,7 +382,7 @@ GEM
     mini_portile2 (2.6.1)
     mini_racer (0.4.0)
       libv8-node (~> 15.14.0.0)
-    minitest (5.14.4)
+    minitest (5.16.2)
     monetize (1.11.0)
       money (~> 6.12)
     money (6.14.1)
@@ -403,7 +403,7 @@ GEM
       rack (>= 1.2, < 3)
     orm_adapter (0.5.0)
     pagy (4.11.0)
-    paper_trail (12.1.0)
+    paper_trail (13.0.0)
       activerecord (>= 5.2)
       request_store (~> 1.1)
     paperclip (3.4.2)
@@ -441,7 +441,7 @@ GEM
       nio4r (~> 2.0)
     raabro (1.4.0)
     racc (1.5.2)
-    rack (2.2.3)
+    rack (2.2.4)
     rack-mini-profiler (2.3.3)
       rack (>= 1.2.0)
     rack-protection (2.1.0)
@@ -500,7 +500,7 @@ GEM
     redcarpet (3.5.1)
     redis (4.4.0)
     regexp_parser (2.1.1)
-    request_store (1.5.0)
+    request_store (1.5.1)
       rack (>= 1.4)
     responders (3.0.1)
       actionpack (>= 5.0)
@@ -633,7 +633,7 @@ GEM
     tilt (2.0.10)
     timecop (0.9.4)
     ttfunk (1.7.0)
-    tzinfo (2.0.4)
+    tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
@@ -678,7 +678,7 @@ GEM
     xml-simple (1.1.8)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (2.4.2)
+    zeitwerk (2.6.0)
 
 PLATFORMS
   ruby
@@ -758,7 +758,7 @@ DEPENDENCIES
   ofn-qz!
   order_management!
   pagy (~> 4.11)
-  paper_trail (~> 12.1.0)
+  paper_trail (~> 13.0.0)
   paperclip (~> 3.4.1)
   paranoia (~> 2.4)
   paypal-sdk-merchant (= 1.117.2)
